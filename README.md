@@ -3,7 +3,7 @@
 Stay ahead with real-time updates on live events and stream links from JioCinema! This project automates the process, ensuring you always have the latest event data at your fingertips.
 
 ## ⚡ Key Features
-- **Auto Update** - Refreshes every **5 minutes** with the latest event data.
+- **Auto Update** - Refreshes every **10 minutes** with the latest event data.
 - **Seamless Integration** - Plug and play with any application that needs live event data..
 <br> **📌 Never miss a live event again!** Let automation handle the updates while you enjoy uninterrupted streaming.
 
