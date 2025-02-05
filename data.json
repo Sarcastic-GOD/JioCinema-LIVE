@@ -30,7 +30,7 @@
                 "assetId": "4081398",
                 "label": "മലയാളം",
                 "id": "ml",
-                "stream": "https://prod-sports-south-gm.jiocinema.com/hls/live/2109676/hd_akamai_merged_avc_isl_mal_m1050225/tv_master.m3u8"
+                "stream": "https://prod-sports-south-cf.jiocinema.com/hls/live/2109676/hd_akamai_merged_avc_isl_mal_m1050225/tv_master.m3u8"
             }
         ],
         "keywords": [
