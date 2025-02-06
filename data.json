@@ -22,36 +22,5 @@
             "India vs England",
             "IND vs ENG"
         ]
-    },
-    {
-        "id": "match-14-australia-vs-china",
-        "event": "FIH Pro League - Virtual",
-        "name": "Match 14 - Australia vs China",
-        "logo": "https://v3img.voot.com/resizeMedium,w_914,h_514/v3Storage/assets/aus_vs_china_fih_live_horizontal_carousel-1738812509910.jpg",
-        "description": "Watch Live match Argentina vs Netherlands- (ARG vs NED) - FIH Women's Pro League 2024-25 on 16th December 2024 and get latest live score updated in real time only on JioCinema.",
-        "genre": "Sports",
-        "language": "English",
-        "Languages": [
-            {
-                "assetId": "4104421",
-                "label": "English",
-                "id": "en",
-                "stream": "https://prod-sports-eng-cf.jiocinema.com/hls/live/2100311/hd_akamai_merged_avc_eng_fih_m2_060225/tv_master.m3u8"
-            }
-        ],
-        "keywords": [
-            "FIH",
-            "Hockey",
-            "women's Pro League",
-            "Argentina vs Netherlands",
-            "Live",
-            "Hockey Live",
-            "FIH",
-            "Hockey",
-            "women's Pro League",
-            "Australia",
-            "China",
-            "Australia vs China"
-        ]
     }
 ]
