@@ -36,7 +36,7 @@
                 "assetId": "4081413",
                 "label": "हिन्दी",
                 "id": "hi",
-                "stream": "https://prod-sports-hin-cf.jiocinema.com/hls/live/2100328/hd_akamai_merged_avc_isl_hin_m1060225/tv_master.m3u8"
+                "stream": "https://prod-sports-hin-gm.jiocinema.com/hls/live/2100328/hd_akamai_merged_avc_isl_hin_m1060225/tv_master.m3u8"
             },
             {
                 "assetId": "4081412",
@@ -54,7 +54,7 @@
                 "assetId": "4081414",
                 "label": "മലയാളം",
                 "id": "ml",
-                "stream": "https://prod-sports-south-gm.jiocinema.com/hls/live/2109676/hd_akamai_merged_avc_isl_mal_m1060225/tv_master.m3u8"
+                "stream": "https://prod-sports-south-cf.jiocinema.com/hls/live/2109676/hd_akamai_merged_avc_isl_mal_m1060225/tv_master.m3u8"
             }
         ],
         "keywords": [
