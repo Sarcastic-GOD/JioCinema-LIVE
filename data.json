@@ -1,29 +1,5 @@
 [
     {
-        "id": "india-vs-england-1st-odi",
-        "event": "IDFC FIRST Bank India vs England 2025",
-        "name": "India vs England - 1st ODI",
-        "logo": "https://v3img.voot.com/resizeMedium,w_914,h_514/v3Storage/assets/ind_vs_eng-1738825023657.jpg",
-        "description": "Watch Local, National, Regional & Worldwide Live News Streaming Of Your Favourite India Vs England - 1st ODI TV Channels Only On JioCinema. Get India Vs England - 1st ODI-India, Assam, Bangla, Lokmat, Jharkhand & Regional Channels Breaking News Videos On Politics, Sports, Entertainment, Lifestyle And Much More Online.",
-        "genre": "Sports",
-        "language": "Hindi",
-        "Languages": [
-            {
-                "assetId": "4105866",
-                "label": "हिन्दी",
-                "id": "hi",
-                "stream": "URL not found"
-            }
-        ],
-        "keywords": [
-            "India vs England",
-            "1st ODI",
-            "ODI",
-            "India vs England",
-            "IND vs ENG"
-        ]
-    },
-    {
         "id": "fc-goa-vs-odisha-fc",
         "event": "Indian Super League",
         "name": "FC Goa vs Odisha FC",
@@ -36,13 +12,13 @@
                 "assetId": "4081413",
                 "label": "हिन्दी",
                 "id": "hi",
-                "stream": "https://prod-sports-hin-gm.jiocinema.com/hls/live/2100328/hd_akamai_merged_avc_isl_hin_m1060225/tv_master.m3u8"
+                "stream": "https://prod-sports-hin-cf.jiocinema.com/hls/live/2100328/hd_akamai_merged_avc_isl_hin_m1060225/tv_master.m3u8"
             },
             {
                 "assetId": "4081412",
                 "label": "English",
                 "id": "en",
-                "stream": "https://prod-sports-eng-gm.jiocinema.com/hls/live/2112600/hd_akamai_merged_avc_isl_eng_m1060225/tv_master.m3u8"
+                "stream": "https://prod-sports-eng-cf.jiocinema.com/hls/live/2112600/hd_akamai_merged_avc_isl_eng_m1060225/tv_master.m3u8"
             },
             {
                 "assetId": "4081411",
