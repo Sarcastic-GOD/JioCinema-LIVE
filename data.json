@@ -18,13 +18,13 @@
                 "assetId": "4082706",
                 "label": "English",
                 "id": "en",
-                "stream": "https://prod-sports-eng-gm.jiocinema.com/hls/live/2112600/hd_akamai_merged_avc_isl_eng_m2080225/tv_master.m3u8"
+                "stream": "https://prod-sports-eng-cf.jiocinema.com/hls/live/2112600/hd_akamai_merged_avc_isl_eng_m2080225/tv_master.m3u8"
             },
             {
                 "assetId": "4082705",
                 "label": "বাংলা",
                 "id": "bn",
-                "stream": "https://prod-sports-north-gm.jiocinema.com/hls/live/2109743/hd_akamai_merged_avc_isl_ben_m2080225/tv_master.m3u8"
+                "stream": "https://prod-sports-north-cf.jiocinema.com/hls/live/2109743/hd_akamai_merged_avc_isl_ben_m2080225/tv_master.m3u8"
             },
             {
                 "assetId": "4082708",
@@ -56,65 +56,6 @@
             "EBFC vs CFC",
             "EBFC Live",
             "CFC Live"
-        ]
-    },
-    {
-        "id": "hyderabad-fc-vs-mohammedan-sc",
-        "event": "Indian Super League",
-        "name": "Hyderabad FC vs Mohammedan SC",
-        "logo": "https://v3img.voot.com/resizeMedium,w_914,h_514/v3Storage/assets/isl_2024_live_hfc_vs_msc_horizontal_carousel-1738993901964.jpg",
-        "description": "Watch Live match Hyderabad FC vs Mohammedan SC - (HFC vs MSC) - ISL 2024-25 on 8th February 2025 and get latest live score updated in real time only on JioCinema",
-        "genre": "Sports",
-        "language": "Hindi",
-        "Languages": [
-            {
-                "assetId": "4082691",
-                "label": "हिन्दी",
-                "id": "hi",
-                "stream": "https://prod-sports-hin-cf.jiocinema.com/hls/live/2100328/hd_akamai_merged_avc_isl_hin_m1080225/tv_master.m3u8"
-            },
-            {
-                "assetId": "4082690",
-                "label": "English",
-                "id": "en",
-                "stream": "https://prod-sports-eng-cf.jiocinema.com/hls/live/2112600/hd_akamai_merged_avc_isl_eng_m1080225/tv_master.m3u8"
-            },
-            {
-                "assetId": "4082689",
-                "label": "বাংলা",
-                "id": "bn",
-                "stream": "https://prod-sports-north-cf.jiocinema.com/hls/live/2109743/hd_akamai_merged_avc_isl_ben_m1080225/tv_master.m3u8"
-            },
-            {
-                "assetId": "4082692",
-                "label": "മലയാളം",
-                "id": "ml",
-                "stream": "https://prod-sports-south-cf.jiocinema.com/hls/live/2109676/hd_akamai_merged_avc_isl_mal_m1080225/tv_master.m3u8"
-            }
-        ],
-        "keywords": [
-            "Indian Super League 2024-25",
-            "Indian Super League",
-            "ISL 2023-24",
-            "ISL",
-            "Football",
-            " Hyderabad FC vs Mohammedan SC",
-            " Hyderabad FC",
-            " Mohammedan SC",
-            " HFC vs MSC",
-            " HFC Live",
-            " MSC Live",
-            "Indian Super League 2024-25",
-            "Indian Super League",
-            "ISL 2023-24",
-            "ISL",
-            "Football",
-            "Hyderabad FC vs Mohammedan SC",
-            "Hyderabad FC",
-            "Mohammedan SC",
-            "HFC vs MSC",
-            "HFC Live",
-            "MSC Live"
         ]
     }
 ]
