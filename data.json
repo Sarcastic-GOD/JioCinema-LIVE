@@ -12,7 +12,7 @@
                 "assetId": "4082707",
                 "label": "हिन्दी",
                 "id": "hi",
-                "stream": "https://prod-sports-hin-cf.jiocinema.com/hls/live/2100328/hd_akamai_merged_avc_isl_hin_m2080225/tv_master.m3u8"
+                "stream": "https://prod-sports-hin-gm.jiocinema.com/hls/live/2100328/hd_akamai_merged_avc_isl_hin_m2080225/tv_master.m3u8"
             },
             {
                 "assetId": "4082706",
