@@ -24,7 +24,7 @@
                 "assetId": "4082705",
                 "label": "বাংলা",
                 "id": "bn",
-                "stream": "https://prod-sports-north-gm.jiocinema.com/hls/live/2109743/hd_akamai_merged_avc_isl_ben_m2080225/tv_master.m3u8"
+                "stream": "https://prod-sports-north-cf.jiocinema.com/hls/live/2109743/hd_akamai_merged_avc_isl_ben_m2080225/tv_master.m3u8"
             },
             {
                 "assetId": "4082708",
