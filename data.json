@@ -3,9 +3,14 @@
         "id": "india-vs-england-2nd-odi",
         "event": "IDFC FIRST Bank India vs England 2025",
         "name": "India vs England - 2nd ODI",
-        "logo": "https://v3img.voot.com/resizeMedium,w_914,h_514/v3Storage/assets/ind_vs_eng-1739013981301.jpg",
+        "venue": "",
+        "logo": "https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/ind_v_eng_2nd_odi_logo-1739014138895.png",
+        "Premium": false,
+        "4K": false,
+        "1080P": false,
+        "Dolby": false,
         "description": "Watch Local, National, Regional & Worldwide Live News Streaming Of Your Favourite India Vs England - 2nd ODI TV Channels Only On JioCinema. Get India Vs England - 2nd ODI-India, Assam, Bangla, Lokmat, Jharkhand & Regional Channels Breaking News Videos On Politics, Sports, Entertainment, Lifestyle And Much More Online.",
-        "genre": "Sports",
+        "genre": "Cricket",
         "language": "Hindi",
         "Languages": [
             {
@@ -27,9 +32,14 @@
         "id": "bengaluru-fc-vs-jamshedpur-fc",
         "event": "Indian Super League",
         "name": "Bengaluru FC vs Jamshedpur FC",
-        "logo": "https://v3img.voot.com/resizeMedium,w_914,h_514/v3Storage/assets/isl_2024_live_bfc_vs_jfc_horizontal_carousel-1739090599382.jpg",
+        "venue": "",
+        "logo": "https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/isl_live_logo-1726466491970.png",
+        "Premium": false,
+        "4K": false,
+        "1080P": false,
+        "Dolby": false,
         "description": "Watch Live match Bengaluru FC vs Jamshedpur FC - (BFC vs JFC) - ISL 2024-25 on 9th February 2025 and get latest live score updated in real time only on JioCinema",
-        "genre": "Sports",
+        "genre": "Football",
         "language": "Hindi",
         "Languages": [
             {
@@ -42,7 +52,7 @@
                 "assetId": "4083052",
                 "label": "English",
                 "id": "en",
-                "stream": "https://prod-sports-eng-cf.jiocinema.com/hls/live/2112600/hd_akamai_merged_avc_isl_eng_m1090225/tv_master.m3u8"
+                "stream": "https://prod-sportsp-eng.jiocinema.com/hls/live/2112600/hd_akamai_merged_avc_isl_eng_m1090225/tv_master.m3u8"
             },
             {
                 "assetId": "4083051",
@@ -54,7 +64,7 @@
                 "assetId": "4083054",
                 "label": "മലയാളം",
                 "id": "ml",
-                "stream": "https://prod-sports-south-cf.jiocinema.com/hls/live/2109676/hd_akamai_merged_avc_isl_mal_m1090225/tv_master.m3u8"
+                "stream": "https://prod-sportsp-south.jiocinema.com/hls/live/2109676/hd_akamai_merged_avc_isl_mal_m1090225/tv_master.m3u8"
             }
         ],
         "keywords": [
