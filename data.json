@@ -1,5 +1,29 @@
 [
     {
+        "id": "india-vs-england-2nd-odi",
+        "event": "IDFC FIRST Bank India vs England 2025",
+        "name": "India vs England - 2nd ODI",
+        "logo": "https://v3img.voot.com/resizeMedium,w_914,h_514/v3Storage/assets/ind_vs_eng-1739013981301.jpg",
+        "description": "Watch Local, National, Regional & Worldwide Live News Streaming Of Your Favourite India Vs England - 2nd ODI TV Channels Only On JioCinema. Get India Vs England - 2nd ODI-India, Assam, Bangla, Lokmat, Jharkhand & Regional Channels Breaking News Videos On Politics, Sports, Entertainment, Lifestyle And Much More Online.",
+        "genre": "Sports",
+        "language": "Hindi",
+        "Languages": [
+            {
+                "assetId": "4105878",
+                "label": "हिन्दी",
+                "id": "hi",
+                "stream": false
+            }
+        ],
+        "keywords": [
+            "India vs England",
+            "2nd ODI",
+            "ODI",
+            "India vs England",
+            "IND vs ENG"
+        ]
+    },
+    {
         "id": "qf-haryana-vs-mumbai-day-2",
         "event": "IDFC FIRST Bank Ranji Trophy",
         "name": "QF - Haryana vs Mumbai - Day 2",
