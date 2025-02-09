@@ -42,13 +42,13 @@
                 "assetId": "4083052",
                 "label": "English",
                 "id": "en",
-                "stream": "https://prod-sports-eng-gm.jiocinema.com/hls/live/2112600/hd_akamai_merged_avc_isl_eng_m1090225/tv_master.m3u8"
+                "stream": "https://prod-sports-eng-cf.jiocinema.com/hls/live/2112600/hd_akamai_merged_avc_isl_eng_m1090225/tv_master.m3u8"
             },
             {
                 "assetId": "4083051",
                 "label": "বাংলা",
                 "id": "bn",
-                "stream": "https://prod-sports-north-gm.jiocinema.com/hls/live/2109743/hd_akamai_merged_avc_isl_ben_m1090225/tv_master.m3u8"
+                "stream": "https://prod-sports-north-cf.jiocinema.com/hls/live/2109743/hd_akamai_merged_avc_isl_ben_m1090225/tv_master.m3u8"
             },
             {
                 "assetId": "4083054",
