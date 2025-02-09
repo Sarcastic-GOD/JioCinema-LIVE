@@ -161,38 +161,5 @@
             "Jammu & Kashmir",
             "Kerala."
         ]
-    },
-    {
-        "id": "match-18-australia-vs-china",
-        "event": "FIH Pro League - Virtual",
-        "name": "Match 18 - Australia vs China",
-        "logo": "https://v3img.voot.com/resizeMedium,w_914,h_514/v3Storage/assets/aus_vs_china_fih_live_horizontal_carousel-1739015927568.jpg",
-        "description": "Watch Live match Australia vs China - (AUS vs CHN) - FIH Women's Pro League 2024-25 on 9th February.",
-        "genre": "Sports",
-        "language": "English",
-        "Languages": [
-            {
-                "assetId": "4104424",
-                "label": "English",
-                "id": "en",
-                "stream": false
-            }
-        ],
-        "keywords": [
-            "FIH",
-            "Hockey",
-            "women's Pro League",
-            "Live",
-            "Hockey Live",
-            " Australia vs China",
-            " AUS vs CHN",
-            "FIH",
-            "Hockey",
-            "women's Pro League",
-            "Live",
-            "Hockey Live",
-            "Australia vs China",
-            "AUS vs CHN"
-        ]
     }
 ]
