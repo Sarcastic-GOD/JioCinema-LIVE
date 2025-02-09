@@ -137,5 +137,40 @@
             "Jammu & Kashmir",
             "Kerala."
         ]
+    },
+    {
+        "id": "match-18-australia-vs-netherlands",
+        "event": "FIH Pro League - Virtual",
+        "name": "Match 18 - Australia vs Netherlands",
+        "logo": "https://v3img.voot.com/resizeMedium,w_914,h_514/v3Storage/assets/aus_vs_ned_fih_live_horizontal_carousel-1739015661220.jpg",
+        "description": "Watch Live match Australia vs Netherlands - (AUS vs NED) - FIH Men's Pro League 2024-25 on 9th February 2024.",
+        "genre": "Sports",
+        "language": "English",
+        "Languages": [
+            {
+                "assetId": "4104411",
+                "label": "English",
+                "id": "en",
+                "stream": false
+            }
+        ],
+        "keywords": [
+            "FIH",
+            "Hockey",
+            "men's Pro League",
+            "Live",
+            "Hockey Live",
+            "Australia vs Netherlands",
+            " Australia",
+            " Netherlands",
+            "FIH",
+            "Hockey",
+            "men's Pro League",
+            "Live",
+            "Hockey Live",
+            "Australia vs Netherlands",
+            "Australia",
+            "Netherlands"
+        ]
     }
 ]
