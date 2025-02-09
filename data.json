@@ -33,5 +33,109 @@
             "Mumbai",
             "MCA"
         ]
+    },
+    {
+        "id": "qf-vidarbha-vs-tamil-nadu-day-2",
+        "event": "IDFC FIRST Bank Ranji Trophy",
+        "name": "QF - Vidarbha vs Tamil Nadu - Day 2",
+        "logo": "https://v3img.voot.com/resizeMedium,w_914,h_514/v3Storage/assets/ranji_trohy_vidarbha_vs_tamil_nadu_live_horizontal-1738955463175.jpg",
+        "description": "Watch live match Vidarbha vs Tamil Nadu - VID vs TN - IDFC FIRST Bank Ranji Trophy 2024 from 8th to 11th Feb and get latest live score updated in real time only on JioCinema.",
+        "genre": "Sports",
+        "language": "English",
+        "Languages": [
+            {
+                "assetId": "4105938",
+                "label": "English",
+                "id": "en",
+                "stream": false
+            }
+        ],
+        "keywords": [
+            "Cricket",
+            "Sports",
+            "Ranji Trophy",
+            "Ranji Trophy 2024",
+            "Ranji Trophy live",
+            "VID vs TN",
+            " Vidarbha vs Tamil Nadu",
+            " Vidarbha",
+            " Tamil Nadu",
+            "IDFC First Bank Ranji Trophy 2024-25",
+            "Ranji Trophy 2024-25",
+            "Ranji Trophy",
+            "Live",
+            "Vidarbha vs Tamil Nadu",
+            "Vidarbha",
+            "Tamil Nadu"
+        ]
+    },
+    {
+        "id": "qf-saurashtra-vs-gujarat-day-2",
+        "event": "IDFC FIRST Bank Ranji Trophy",
+        "name": "QF - Saurashtra vs Gujarat - Day 2",
+        "logo": "https://v3img.voot.com/resizeMedium,w_914,h_514/v3Storage/assets/ranji_trophy_sau_vs_gj_live_horizontal_carousel-1738996285333.jpg",
+        "description": "Watch live match Saurashtra vs Gujarat - SAU vs GUJ - IDFC FIRST Bank Ranji Trophy 2024 from 8th to 11th Feb and get latest live score updated in real time only on JioCinema.",
+        "genre": "Sports",
+        "language": "English",
+        "Languages": [
+            {
+                "assetId": "4105939",
+                "label": "English",
+                "id": "en",
+                "stream": false
+            }
+        ],
+        "keywords": [
+            "IDFC First Bank Ranji Trophy 2024-25",
+            "Ranji Trophy 2024-25",
+            "Ranji Trophy",
+            "Live",
+            " Saurashtra vs Gujarat",
+            " Saurashtra",
+            " Gujarat",
+            " SAU vs GUJ",
+            "IDFC First Bank Ranji Trophy 2024-25",
+            "Ranji Trophy 2024-25",
+            "Ranji Trophy",
+            "Live",
+            "Saurashtra vs Gujarat",
+            "Saurashtra",
+            "Gujarat",
+            "SAU vs GUJ"
+        ]
+    },
+    {
+        "id": "qf-jammu-and-kashmir-vs-kerala-day-2",
+        "event": "IDFC FIRST Bank Ranji Trophy",
+        "name": "QF - Jammu and Kashmir vs Kerala - Day 2",
+        "logo": "https://v3img.voot.com/resizeMedium,w_914,h_514/v3Storage/assets/ranji_trophy_jk_vs_kerala_live_horizontal_carousel-1738996374052.jpg",
+        "description": "Watch live match Jammu & Kashmir vs Kerala - J&K vs KER - IDFC FIRST Bank Ranji Trophy 2024 from 8th to 11th Feb and get latest live score updated in real time only on JioCinema.",
+        "genre": "Sports",
+        "language": "English",
+        "Languages": [
+            {
+                "assetId": "4105933",
+                "label": "English",
+                "id": "en",
+                "stream": false
+            }
+        ],
+        "keywords": [
+            "Cricket",
+            "Sports",
+            "Ranji Trophy",
+            "Ranji Trophy 2024",
+            "Ranji Trophy live",
+            "Jammu & Kashmir vs Kerala.",
+            " Jammu & Kashmir",
+            " Kerala.",
+            "IDFC First Bank Ranji Trophy 2024-25",
+            "Ranji Trophy 2024-25",
+            "Ranji Trophy",
+            "Live",
+            "Jammu & Kashmir vs Kerala.",
+            "Jammu & Kashmir",
+            "Kerala."
+        ]
     }
 ]
