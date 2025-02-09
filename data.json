@@ -22,5 +22,64 @@
             "India vs England",
             "IND vs ENG"
         ]
+    },
+    {
+        "id": "bengaluru-fc-vs-jamshedpur-fc",
+        "event": "Indian Super League",
+        "name": "Bengaluru FC vs Jamshedpur FC",
+        "logo": "https://v3img.voot.com/resizeMedium,w_914,h_514/v3Storage/assets/isl_2024_live_bfc_vs_jfc_horizontal_carousel-1739090599382.jpg",
+        "description": "Watch Live match Bengaluru FC vs Jamshedpur FC - (BFC vs JFC) - ISL 2024-25 on 9th February 2025 and get latest live score updated in real time only on JioCinema",
+        "genre": "Sports",
+        "language": "Hindi",
+        "Languages": [
+            {
+                "assetId": "4083053",
+                "label": "हिन्दी",
+                "id": "hi",
+                "stream": "https://prod-sports-hin-cf.jiocinema.com/hls/live/2100328/hd_akamai_merged_avc_isl_hin_m1090225/tv_master.m3u8"
+            },
+            {
+                "assetId": "4083052",
+                "label": "English",
+                "id": "en",
+                "stream": "https://prod-sports-eng-gm.jiocinema.com/hls/live/2112600/hd_akamai_merged_avc_isl_eng_m1090225/tv_master.m3u8"
+            },
+            {
+                "assetId": "4083051",
+                "label": "বাংলা",
+                "id": "bn",
+                "stream": "https://prod-sports-north-gm.jiocinema.com/hls/live/2109743/hd_akamai_merged_avc_isl_ben_m1090225/tv_master.m3u8"
+            },
+            {
+                "assetId": "4083054",
+                "label": "മലയാളം",
+                "id": "ml",
+                "stream": "https://prod-sports-south-cf.jiocinema.com/hls/live/2109676/hd_akamai_merged_avc_isl_mal_m1090225/tv_master.m3u8"
+            }
+        ],
+        "keywords": [
+            "Indian Super League 2024-25",
+            "Indian Super League",
+            "ISL 2023-24",
+            "ISL",
+            "Football",
+            " Bengaluru FC vs Jamshedpur FC",
+            " Bengaluru FC",
+            " Jamshedpur FC",
+            " BFC vs JFC",
+            " BFC Live",
+            " JFC Live",
+            "Indian Super League 2024-25",
+            "Indian Super League",
+            "ISL 2023-24",
+            "ISL",
+            "Football",
+            "Bengaluru FC vs Jamshedpur FC",
+            "Bengaluru FC",
+            "Jamshedpur FC",
+            "BFC vs JFC",
+            "BFC Live",
+            "JFC Live"
+        ]
     }
 ]
