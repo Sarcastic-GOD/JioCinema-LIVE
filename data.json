@@ -3,14 +3,9 @@
         "id": "india-vs-england-2nd-odi",
         "event": "IDFC FIRST Bank India vs England 2025",
         "name": "India vs England - 2nd ODI",
-        "venue": "",
-        "logo": "https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/ind_v_eng_2nd_odi_logo-1739014138895.png",
-        "Premium": false,
-        "4K": false,
-        "1080P": false,
-        "Dolby": false,
+        "logo": "https://v3img.voot.com/resizeMedium,w_914,h_514/v3Storage/assets/ind_vs_eng-1739013981301.jpg",
         "description": "Watch Local, National, Regional & Worldwide Live News Streaming Of Your Favourite India Vs England - 2nd ODI TV Channels Only On JioCinema. Get India Vs England - 2nd ODI-India, Assam, Bangla, Lokmat, Jharkhand & Regional Channels Breaking News Videos On Politics, Sports, Entertainment, Lifestyle And Much More Online.",
-        "genre": "Cricket",
+        "genre": "Sports",
         "language": "Hindi",
         "Languages": [
             {
@@ -26,70 +21,6 @@
             "ODI",
             "India vs England",
             "IND vs ENG"
-        ]
-    },
-    {
-        "id": "bengaluru-fc-vs-jamshedpur-fc",
-        "event": "Indian Super League",
-        "name": "Bengaluru FC vs Jamshedpur FC",
-        "venue": "",
-        "logo": "https://v3img.voot.com/resizeMedium,w_3824,h_2160/v3Storage/assets/isl_live_logo-1726466491970.png",
-        "Premium": false,
-        "4K": false,
-        "1080P": false,
-        "Dolby": false,
-        "description": "Watch Live match Bengaluru FC vs Jamshedpur FC - (BFC vs JFC) - ISL 2024-25 on 9th February 2025 and get latest live score updated in real time only on JioCinema",
-        "genre": "Football",
-        "language": "Hindi",
-        "Languages": [
-            {
-                "assetId": "4083053",
-                "label": "हिन्दी",
-                "id": "hi",
-                "stream": "https://prod-sports-hin-cf.jiocinema.com/hls/live/2100328/hd_akamai_merged_avc_isl_hin_m1090225/tv_master.m3u8"
-            },
-            {
-                "assetId": "4083052",
-                "label": "English",
-                "id": "en",
-                "stream": "https://prod-sportsp-eng.jiocinema.com/hls/live/2112600/hd_akamai_merged_avc_isl_eng_m1090225/tv_master.m3u8"
-            },
-            {
-                "assetId": "4083051",
-                "label": "বাংলা",
-                "id": "bn",
-                "stream": "https://prod-sports-north-cf.jiocinema.com/hls/live/2109743/hd_akamai_merged_avc_isl_ben_m1090225/tv_master.m3u8"
-            },
-            {
-                "assetId": "4083054",
-                "label": "മലയാളം",
-                "id": "ml",
-                "stream": "https://prod-sportsp-south.jiocinema.com/hls/live/2109676/hd_akamai_merged_avc_isl_mal_m1090225/tv_master.m3u8"
-            }
-        ],
-        "keywords": [
-            "Indian Super League 2024-25",
-            "Indian Super League",
-            "ISL 2023-24",
-            "ISL",
-            "Football",
-            " Bengaluru FC vs Jamshedpur FC",
-            " Bengaluru FC",
-            " Jamshedpur FC",
-            " BFC vs JFC",
-            " BFC Live",
-            " JFC Live",
-            "Indian Super League 2024-25",
-            "Indian Super League",
-            "ISL 2023-24",
-            "ISL",
-            "Football",
-            "Bengaluru FC vs Jamshedpur FC",
-            "Bengaluru FC",
-            "Jamshedpur FC",
-            "BFC vs JFC",
-            "BFC Live",
-            "JFC Live"
         ]
     }
 ]
