@@ -4,14 +4,18 @@
         "premium": false,
         "event": "Indian Super League",
         "name": "Odisha FC vs Punjab FC",
+        "title": "Odisha FC Vs Punjab FC TV Channels Videos Live Streaming Online On JioCinema",
         "venue": "Kalinga Stadium, Bhubaneswar",
         "logo": "https://v3img.voot.com/resizeMedium,w_914,h_514/v3Storage/assets/isl_2024_live_ofc_vs_pfc_horizontal_carousel-1739168446963.jpg",
+        "imgTitle": "Odisha FC vs Punjab FC",
         "homeTeam": "Odisha FC",
         "awayTeam": "Punjab FC",
         "description": "Watch Local, National, Regional & Worldwide Live News Streaming Of Your Favourite Odisha FC Vs Punjab FC TV Channels Only On JioCinema. Get Odisha FC Vs Punjab FC-India, Assam, Bangla, Lokmat, Jharkhand & Regional Channels Breaking News Videos On Politics, Sports, Entertainment, Lifestyle And Much More Online.",
         "4K": false,
         "1080P": false,
         "Dolby": false,
+        "start": "10 Feb 2025, 08:30 PM, IST",
+        "end": "10 Feb 2025, 10:00 PM, IST",
         "genre": "Football",
         "language": "English",
         "Languages": [
@@ -40,30 +44,18 @@
                 "stream": "https://prod-sports-hin-cf.jiocinema.com/hls/live/2100328/hd_akamai_merged_avc_isl_hin_m1100225/tv_master.m3u8"
             }
         ],
-        "seo": {
-            "page": "Odisha FC Vs Punjab FC",
-            "title": "Odisha FC Vs Punjab FC TV Channels Videos Live Streaming Online On JioCinema",
-            "urlStructure": "https://www.jiocinema.com/sports/football/odisha-fc-vs-punjab-fc/4081484",
-            "urlStructureNew": "https://www.jiocinema.com/sports/football/odisha-fc-vs-punjab-fc/4081484",
-            "description": "Watch Local, National, Regional & Worldwide Live News Streaming Of Your Favourite Odisha FC Vs Punjab FC TV Channels Only On JioCinema. Get Odisha FC Vs Punjab FC-India, Assam, Bangla, Lokmat, Jharkhand & Regional Channels Breaking News Videos On Politics, Sports, Entertainment, Lifestyle And Much More Online.",
-            "keywords": [
-                "Indian Super League 2024-25",
-                "Indian Super League",
-                "ISL 2023-24",
-                "ISL",
-                "Football",
-                "Odisha FC vs Punjab FC",
-                "Odisha FC",
-                "Punjab FC",
-                "OFC vs PFC",
-                "OFC Live",
-                "PFC Live"
-            ],
-            "ogTitle": "Odisha FC Vs Punjab FC TV Channels Videos Live Streaming Online On JioCinema",
-            "ogDescription": "Watch Local, National, Regional & Worldwide Live News Streaming Of Your Favourite Odisha FC Vs Punjab FC TV Channels Only On JioCinema. Get Odisha FC Vs Punjab FC-India, Assam, Bangla, Lokmat, Jharkhand & Regional Channels Breaking News Videos On Politics, Sports, Entertainment, Lifestyle And Much More Online.",
-            "ogImage": "https://v3img.voot.com/v3Storage/assets/isl_2024_live_ofc_vs_pfc_vertical_3x4-1739168469432.jpg",
-            "imgTitle": "Odisha FC vs Punjab FC",
-            "imgAltTags": "Watch Odisha FC vs Punjab FC Online"
-        }
+        "keywords": [
+            "Indian Super League 2024-25",
+            "Indian Super League",
+            "ISL 2023-24",
+            "ISL",
+            "Football",
+            "Odisha FC vs Punjab FC",
+            "Odisha FC",
+            "Punjab FC",
+            "OFC vs PFC",
+            "OFC Live",
+            "PFC Live"
+        ]
     }
 ]
